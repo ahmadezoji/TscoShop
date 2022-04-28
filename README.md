@@ -1,2 +1,1 @@
 # TscoShop
-TscoShop react native
